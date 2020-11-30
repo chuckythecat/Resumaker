@@ -125,13 +125,14 @@ class Resumaker(QtWidgets.QMainWindow, resumaker_ui.Ui_MainWindow):
             # database_file.write(write_string)
             # database_file.close()
 
-            database_extended_file = open('resumaker_database.rdb', 'a', encoding="utf-8")
-            ex_write_string = "\n" + name + "," + second_name + "," + post +\
-                              "," + age + "," + edu_level + "," + directory[0]
-            database_extended_file.write(ex_write_string)
-            database_extended_file.close()
+            db = open('resumaker_database.rdb', 'r+', encoding="utf-8")
+            if db.read() != "":
+            	db.write("\n")
+            db.write(name + "," + second_name + "," + post + "," +\
+            		 age + "," + edu_level + "," + directory[0])
+            db.close()
 
-            # resume.save(directory[0])
+            resume.save(directory[0])
 
 
 def main():
