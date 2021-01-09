@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 382.6 705" style="enable-background:new 0 0 382.6 705;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:8;}
+	.st1{font-family:'ArialMT';}
+	.st2{font-size:11px;}
+	.st3{font-size:9px;}
+	.st4{font-size:7px;}
+	.st5{font-size:8px;}
+	.st6{font-size:13px;}
+	.st7{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:8;}
+</style>
+<g>
+	<g>
+		<path class="st0" d="M147.3,12.5c0-6.1,4.9-11,11-11h79c6.1,0,11,4.9,11,11l0,0c0,6.1-4.9,11-11,11h-79
+			C152.2,23.5,147.3,18.6,147.3,12.5z"/>
+		<text transform="matrix(1 0 0 1 154.267 15)" class="st1 st2">Запуск программы</text>
+		<path class="st0" d="M165.3,35.5h63.9l15,15v26l0,0h-94l0,0v-26L165.3,35.5z"/>
+		<text transform="matrix(1 0 0 1 180.2669 57)" class="st1 st2">Начало </text>
+		<text transform="matrix(1 0 0 1 183.187 67.9999)" class="st1 st2">цикла</text>
+		<rect x="138.3" y="87.5" class="st0" width="119" height="37"/>
+		<text transform="matrix(1 0 0 1 153.347 98.9999)" class="st1 st3">Отрисовать на экране </text>
+		<text transform="matrix(1 0 0 1 149.1003 107.9999)" class="st1 st3">графический интерфейс </text>
+		<text transform="matrix(1 0 0 1 169.5136 116.9999)" class="st1 st3">пользователя</text>
+		<path class="st0" d="M140.3,219.5l57-22l57,22l-57,22L140.3,219.5z"/>
+		<text transform="matrix(1 0 0 1 175.684 213)" class="st1 st4">Нажата кнопка </text>
+		<text transform="matrix(1 0 0 1 179.0973 221)" class="st1 st4">«Приложить </text>
+		<text transform="matrix(1 0 0 1 175.764 229)" class="st1 st4">личное фото»?</text>
+		<path d="M253.8,218H297v19.7h-2V219l1,1h-42.2V218z M300,236.4l-4,8l-4-8H300z"/>
+		<rect x="237.3" y="245.5" class="st0" width="119" height="35"/>
+		<text transform="matrix(1 0 0 1 246.734 253)" class="st1 st5">Показать диалоговое окно, в </text>
+		<text transform="matrix(1 0 0 1 243.4807 259.9999)" class="st1 st5">котором можно выбрать фото, </text>
+		<text transform="matrix(1 0 0 1 249.5674 267.9999)" class="st1 st5">которое будет помещено в </text>
+		<text transform="matrix(1 0 0 1 282.5674 275.9999)" class="st1 st5">резюме</text>
+		<text transform="matrix(1 0 0 1 260.3564 212)" class="st1 st6">Да</text>
+		<path d="M139.8,218h-56v28.6h2V219l-1,1h55V218z M80.8,245.3l4,8l4-8H80.8z"/>
+		<path class="st0" d="M28.3,273l57-19.5l57,19.5l-57,19.5L28.3,273z"/>
+		<text transform="matrix(1 0 0 1 63.852 266.9999)" class="st1 st4">Нажата кнопка </text>
+		<text transform="matrix(1 0 0 1 68.6853 274.9999)" class="st1 st4">«Сохранить </text>
+		<text transform="matrix(1 0 0 1 70.5986 282.9999)" class="st1 st4">резюме»?</text>
+		<text transform="matrix(1 0 0 1 110.3775 213)" class="st1 st6">Нет</text>
+		<path d="M141.8,272h56v6.3h-2V273l1,1h-55V272z M200.8,277l-4,8l-4-8H200.8z"/>
+		<rect x="138.3" y="285.5" class="st0" width="119" height="66"/>
+		<text transform="matrix(1 0 0 1 149.101 295.9999)" class="st1 st3">Собрать данные из всех </text>
+		<text transform="matrix(1 0 0 1 162.4343 305.9999)" class="st1 st3">текстовых полей, </text>
+		<text transform="matrix(1 0 0 1 142.0209 315.9999)" class="st1 st3">скомпоновать на их основе </text>
+		<text transform="matrix(1 0 0 1 139.7676 325.9999)" class="st1 st3">резюме в формате </text>
+		<text transform="matrix(1 0 0 1 216.7677 325.9999)" class="st1 st3">Microsoft </text>
+		<text transform="matrix(1 0 0 1 142.1876 335.9999)" class="st1 st3">Word</text>
+		<text transform="matrix(1 0 0 1 163.6877 335.9999)" class="st1 st3">, добавив заголовок и </text>
+		<text transform="matrix(1 0 0 1 149.3543 345.9999)" class="st1 st3">разделительную линию</text>
+		<path class="st0" d="M138.3,392l59.5-26.5l59.5,26.5l-59.5,26.5L138.3,392z"/>
+		<text transform="matrix(1 0 0 1 184.351 376.9999)" class="st1 st4">Выбрана </text>
+		<text transform="matrix(1 0 0 1 179.1844 384.9999)" class="st1 st4">фотография, </text>
+		<text transform="matrix(1 0 0 1 175.0177 392.9999)" class="st1 st4">которую нужно </text>
+		<text transform="matrix(1 0 0 1 179.771 400.9999)" class="st1 st4">поместить в </text>
+		<text transform="matrix(1 0 0 1 182.5177 408.9999)" class="st1 st4">резюме??</text>
+		<path d="M197.8,351v7.1h-2V351H197.8z M200.8,356.8l-4,8l-4-8H200.8z"/>
+		<path d="M256.8,390h30.1v11.6h-2V391l1,1h-29.1V390z M289.9,400.3l-4,8l-4-8H289.9z"/>
+		<text transform="matrix(1 0 0 1 269.841 384.9999)" class="st1 st6">Да</text>
+		<path d="M137.5,390h-30.7v11.6h2V391l-1,1h29.7V390z M103.8,400.3l4,8l4-8H103.8z"/>
+		<text transform="matrix(1 0 0 1 107.895 383.9999)" class="st1 st6">Нет</text>
+		<path d="M294.8,279.3v25h85.5l0-250.3l-129.9,0v2l128.9,0l-1-1l0,248.3l1-1h-83.5l1,1v-24H294.8z M251.8,51l-8,4l8,4V51z"/>
+		<path d="M195.8,23l0,6.2l2,0l0-6.2L195.8,23z M192.8,27.8l4,8l4-8L192.8,27.8z"/>
+		<rect x="61.3" y="409.5" class="st0" width="94" height="53"/>
+		<text transform="matrix(1 0 0 1 72.353 421.9999)" class="st1 st5">Поместить в резюме </text>
+		<text transform="matrix(1 0 0 1 74.2729 428.9999)" class="st1 st5">вместо фотографии </text>
+		<text transform="matrix(1 0 0 1 70.4396 436.9999)" class="st1 st5">иконку, означающую, </text>
+		<text transform="matrix(1 0 0 1 77.9396 444.9999)" class="st1 st5">что фото не было </text>
+		<text transform="matrix(1 0 0 1 92.6063 451.9999)" class="st1 st5">выбрано</text>
+		<text transform="matrix(1 0 0 1 146.0891 267.9999)" class="st1 st6">Да</text>
+		<path d="M27.8,271.4h-24l1,1V55l-1,1h139v-2H2.8v219.4h25V271.4z M141.4,59l8-4l-8-4V59z"/>
+		<rect x="235.3" y="409.5" class="st0" width="101" height="53"/>
+		<text transform="matrix(1 0 0 1 246.596 421.9999)" class="st1 st5">Поместить выбранную </text>
+		<text transform="matrix(1 0 0 1 247.176 428.9999)" class="st1 st5">фотографию в резюме </text>
+		<text transform="matrix(1 0 0 1 262.0092 436.9999)" class="st1 st5">между ФИО и </text>
+		<text transform="matrix(1 0 0 1 267.9293 444.9999)" class="st1 st5">остальной </text>
+		<text transform="matrix(1 0 0 1 261.4293 451.9999)" class="st1 st5">информацией</text>
+		<rect x="147.3" y="485.5" class="st0" width="100" height="66"/>
+		<text transform="matrix(1 0 0 1 160.604 496.9999)" class="st1 st5">Показать диалоговое </text>
+		<text transform="matrix(1 0 0 1 156.8506 503.9999)" class="st1 st5">окно, в котором можно </text>
+		<text transform="matrix(1 0 0 1 168.184 511.9999)" class="st1 st5">выбрать путь, по </text>
+		<text transform="matrix(1 0 0 1 161.684 519.9999)" class="st1 st5">которому созданное </text>
+		<text transform="matrix(1 0 0 1 172.7707 526.9999)" class="st1 st5">резюме будет </text>
+		<text transform="matrix(1 0 0 1 173.9373 534.9999)" class="st1 st5">сохранено на </text>
+		<text transform="matrix(1 0 0 1 175.684 542.9999)" class="st1 st5">компьютере</text>
+		<path d="M106.8,462v12.3l90.2,0l-1-1v4.7h2v-5.7l-90.2,0l1,1V462H106.8z M193,476.6l4,8l4-8H193z"/>
+		<path d="M286.4,462v12.3h-89.7l1-1v4.7h-2v-5.7h89.7l-1,1V462H286.4z M200.8,476.6l-4,8l-4-8H200.8z"/>
+		<rect x="116.3" y="562.5" class="st0" width="163" height="55"/>
+		<text transform="matrix(1 0 0 1 142.017 575.9999)" class="st1 st5">Записать общую информацию о </text>
+		<text transform="matrix(1 0 0 1 138.517 582.9999)" class="st1 st5">пользователе в специальную базу </text>
+		<text transform="matrix(1 0 0 1 140.437 590.9999)" class="st1 st5">данных формата </text>
+		<text transform="matrix(1 0 0 1 199.437 590.9999)" class="st1 st5">.</text>
+		<text transform="matrix(1 0 0 1 201.6596 590.9999)" class="st1 st5">rdb</text>
+		<text transform="matrix(1 0 0 1 214.437 590.9999)" class="st1 st5">(</text>
+		<text transform="matrix(1 0 0 1 217.101 590.9999)" class="st1 st5">Resumaker</text>
+		<text transform="matrix(1 0 0 1 126.3503 598.9999)" class="st1 st5">Database)</text>
+		<text transform="matrix(1 0 0 1 163.2604 598.9999)" class="st1 st5">, для последующего открытия в </text>
+		<text transform="matrix(1 0 0 1 158.1837 605.9999)" class="st1 st5">программе </text>
+		<text transform="matrix(1 0 0 1 198.0169 605.9999)" class="st1 st5">ResuSearch</text>
+		<path d="M195.8,551l0,4.5h2l0-4.5H195.8z M192.8,554.2l4,8l4-8L192.8,554.2z"/>
+		<path class="st0" d="M140.3,160.5l57-23l57,23l-57,23L140.3,160.5z"/>
+		<text transform="matrix(1 0 0 1 171.434 152)" class="st1 st5">Нажата кнопка </text>
+		<text transform="matrix(1 0 0 1 181.0207 162)" class="st1 st5">закрытия </text>
+		<text transform="matrix(1 0 0 1 175.354 172)" class="st1 st5">программы?</text>
+		<path d="M197.8,76v4.6h-2V76H197.8z M200.8,79.3l-4,8l-4-8L200.8,79.3z"/>
+		<path d="M253.8,159h19.8v1l-1-1h12.1v2h-13.1v-1l1,1h-18.8V159z M283.3,156l8,4l-8,4V156z"/>
+		<text transform="matrix(1 0 0 1 268.5999 152)" class="st1 st6">Да</text>
+		<path d="M139.8,161h-24l1-1v26.8l-1-1h81.8v5.2h-2v-4.2l1,1h-81.8V159h25V161z M200.6,189.7l-4,8l-4-8H200.6z"/>
+		<text transform="matrix(1 0 0 1 116.761 154)" class="st1 st6">Нет</text>
+		<path class="st7" d="M290.8,160c0-5,4-9,9-9s9,4,9,9s-4,9-9,9S290.8,165,290.8,160z"/>
+		<text transform="matrix(1 0 0 1 296.781 164)" class="st1 st6">1</text>
+		<path class="st0" d="M150.3,629.5h94l0,0v23.1l-15.9,15.9h-62.3l-15.9-15.9V629.5z"/>
+		<text transform="matrix(1 0 0 1 167.851 647.9999)" class="st1 st2">Конец цикла</text>
+		<path class="st0" d="M138.3,692c0-6.4,5.1-11.5,11.5-11.5h96c6.4,0,11.5,5.1,11.5,11.5l0,0c0,6.4-5.1,11.5-11.5,11.5h-96
+			C143.4,703.5,138.3,698.4,138.3,692z"/>
+		<text transform="matrix(1 0 0 1 153.934 694.9999)" class="st1 st3">Закрытие программы</text>
+		<path d="M197.8,668v5.4h-2V668H197.8z M200.8,672.1l-4,8l-4-8H200.8z"/>
+		<path d="M115.8,588.2H4.7l1,1V55l-1,1h138.9v-2H3.7v536.2h112.1V588.2z M142.2,59l8-4l-8-4V59z"/>
+		<text transform="matrix(1 0 0 1 15.861 266.9999)" class="st1 st6">Нет</text>
+		<path class="st7" d="M258.8,649c0-5,4-9,9-9s9,4,9,9s-4,9-9,9S258.8,654,258.8,649z"/>
+		<text transform="matrix(1 0 0 1 264.609 652.9999)" class="st1 st6">1</text>
+		<path d="M258.9,648l-8.5,0l0,2l8.5,0V648z M251.8,645l-8,4l8,4L251.8,645z"/>
+		<path d="M195.8,124l0,5.9l2,0l0-5.9L195.8,124z M192.8,128.6l4,8l4-8L192.8,128.6z"/>
+	</g>
+</g>
+</svg>
